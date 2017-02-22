@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="https://fonts.googleapis.com" />
+    <ignored-resource url="https://fonts.googleapis.com/css?family=PT+Sans" />
+  </component>
+</application>
